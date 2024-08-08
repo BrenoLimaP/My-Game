@@ -12,7 +12,6 @@ label continuacao:
     $ style.say_window = style.window
     n"X"
 
-
     show prota at center:
         zoom 0.35
     with dissolve
@@ -49,7 +48,6 @@ label continuacao:
     
     e"[nomeP]"
 
-
     n"X"
 
     show prota at center:
@@ -83,27 +81,19 @@ label continuacao:
 
     p"O que?!?!?!?!"
 
-
-
     n"X"
 
     #(AQUI A GENTE MOSTRA O CELULAR COM AS MENSAGENS DO WHATSAPP COM O CHAT DO GRUPO COM O JONAS E A ANA ABERTO)
 
-        
-
     #(ENCERRA A CONVERSA NO WHATSAPP AQUI)
 
-    
-
     n"Coloco a mão na testa, como se algo inconveniente estivesse sendo forçado em mim"
-
-        
 
     show prota at center:
         zoom 0.35
     with dissolve
     
-    p" Cacetin, eles sempre me pegam nesses momentos que eu tô focado e não tô prestando atenção em nada"
+    p"X"
 
     show prota at center:
         zoom 0.35
@@ -112,7 +102,6 @@ label continuacao:
     p"(Sinto como se eu estivesse sendo arrastado pelos meus dois melhores amigos de novo...)"
 
     n"Eu suspiro"
-
 
     show prota at center:
         zoom 0.35
@@ -136,13 +125,11 @@ label continuacao:
 
     n"Irritado olho ao redor para tentar entender o que aconteceu"
 
-
     show prota at center:
         zoom 0.35
     with dissolve
     
     p "X"
-
 
     show ana at left:
         zoom 0.2
@@ -164,7 +151,6 @@ label continuacao:
 
     j"X"
 
-
     show jonas at right:
         zoom 0.38
     with dissolve
@@ -181,7 +167,6 @@ label continuacao:
     show prota at center:
         zoom 0.35
     with dissolve
-
 
     p"X"
     hide prota
@@ -212,9 +197,9 @@ label continuacao:
         zoom 0.2
     with dissolve
     
-    A"(Olha a audácia desse fiatin!)"
+    A"X"
 
-    n"Ana se prepara para meter o soco no braço do Jonas, até que ele intervém sabiamente, como alguém que não quer morrer tão cedo ainda"
+    n"X"
 
     show jonas at right:
         zoom 0.38
@@ -281,7 +266,6 @@ label continuacao:
     p "X"
 
     #(LIBERA MOVIMENTAÇÃO NO CENÁRIO PARA O JOGADOR)
-
 
     #"SE ACHOU E CLICOU NA FOLHA DE MOVIMENTO DO QUARTO"
 
@@ -357,11 +341,7 @@ label continuacao:
         zoom 0.35
     with dissolve
 
-    p"(Será que ele tá louco?)"
-
-    h" Você passou por coisas difíceis, mas isso logo vai melhorar…"
-
-    n"O homem sorriu ternamente e fechou os olhos"
+    p"X"
 
     show prota at center:
         zoom 0.35
